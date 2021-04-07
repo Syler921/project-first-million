@@ -1,4 +1,23 @@
 db:
 https://www.simform.com/react-native-database-selection-guide/
 
-test
+login: 
+    how?
+    anonymous?
+
+user types:
+    anonymous
+    reporter
+    admin
+
+images:
+
+text:
+
+reports:
+    how to notify the user?
+    email / push notification?
+
+
+how to report the issue to the local gov? 
+    - send via email? 
