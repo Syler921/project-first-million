@@ -10,6 +10,7 @@ user types:
     reporter
     admin
 
+
 images:
 
 text:
@@ -21,3 +22,4 @@ reports:
 
 how to report the issue to the local gov? 
     - send via email? 
+    - personal?
